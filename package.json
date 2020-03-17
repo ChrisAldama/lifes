@@ -1,0 +1,11 @@
+{
+  "name": "lifes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ileana",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "ramda": "^0.27.0"
+  }
+}
